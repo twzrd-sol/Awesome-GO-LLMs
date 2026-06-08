@@ -63,3 +63,11 @@ A curated list of open-source projects, libraries, and frameworks built with **G
 Feel free to suggest or add more Go-based LLM tools and projects by opening a pull request! All contributions are welcome.  
 
 ---
+---
+
+## Services & Infrastructure
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)**  
+  Trust scoring and identity verification for AI agents built with Go or any language. Verify agent wallet identity before x402 micropayments — minimal integration, zero-install MCP server. Free `score_agent` and `preflight_check` tools; paid `get_trust_receipt` via Solana USDC micropayment.  
+  Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
